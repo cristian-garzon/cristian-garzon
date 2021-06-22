@@ -5,3 +5,7 @@
 
 | [<img src="https://c1.klipartz.com/pngpicture/64/828/sticker-png-mysql-logo-organization-database-database-management-system-theory-implementation-line-circle-thumbnail.png" alt="mysql" width="28">](https://www.mysql.com/)| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="24">](https://git-scm.com/) | [<img src="https://resources.jetbrains.com/storage/products/datagrip/img/meta/datagrip_logo_300x300.png" alt="datagrip" width="28">](https://www.jetbrains.com/es-es/datagrip/) | [<img src="https://img.icons8.com/color/452/intellij-idea.png" alt="intellij" width="28">](https://www.jetbrains.com/es-es/idea/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="28">](https://code.visualstudio.com/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1024px-Archlinux-icon-crystal-64.svg.png" alt="arch linux" width="28">](https://archlinux.org/) 
  |---|---|---|---|---|---|
+
+<h2 align="center">Github stats :bar_chart:</h2>
+
+<h4 align="center">Visitor's count :eyes:</h4>
