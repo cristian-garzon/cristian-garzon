@@ -3,25 +3,22 @@
 ```javascript
 const anmol = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "Java", "php"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    code: ["Javascript", "Typescript", "Python", "Java"],
+    askMeAbout: ["web dev", "app dev"],
     technologies: {
-        mobileApp: ["Android App"],
         frontEnd: {
-            js: ["Vue", "Nuxt"],
-            css: ["materialize", "vuetify", "bootstrap"]
+            js: ["Angular"],
+            css: ["bootstrap"]
         },
         backEnd: {
-            js: ["node", "express", "SuiteScript"],
+            java: ["spring framework"],
             python: ["flask"]
         },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        databases: ["mongo", "MySql", "postgresql"],
+        misc: ["Socket.IO", "open-cv"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentProject: "I am developing Extension for NetSuite using SuiteScript2.0",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    architecture: ["Progressive web applications"],
+    hobbies: ["boxing","calisthenics","programing", "reader"] 
 };
 ```
 
