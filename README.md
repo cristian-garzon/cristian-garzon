@@ -1,3 +1,33 @@
+<h2 align="center">About me</h2>
+
+```golang
+package main
+
+import (
+	"fmt"
+)
+
+type Bio map[string]string
+
+func main() {
+	for k, v := range GetBio() {
+		fmt.Printf("%+v: %+v\n", k, v)
+	}
+}
+
+func GetBio() Bio {
+	return Bio{
+		"- ⚡ Quick bio:":                    "A kind of metalHead-melomaniac-gearAddict-amateurMusician-traveler-foodLover-gamer-coder-programmer-catLover-sportsAficionado hybrid",
+		"- 🔭 I’m currently working on":      "Tredicom as a Senior Software Developer --- UAdeC as a Part Time Teacher",
+		"- 🌱 I’m currently learning":        "Golang, MongoDB, RabbitMQ, K8s, GCP (Tech stack from my company) --- Sharpening my Front End Skills for the MERN stack (Personal goal)",
+		"- 👯 I’m looking to collaborate on": "Python, Golang and Docker related projects",
+		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
+		"- 💬 Ask me about":                  "Python, PHP, Laravel, SQL, Software Design & Architecture, Web-Dev and SEO",
+		"- 📫 How to reach me:":              "https://github.com/AnhellO#you-can-reach-me-at-alien",
+	}
+}
+```
+
 
 ### programing Languages ☕
 | [<img src="https://picodotdev.github.io/blog-bitix/assets/images/logotypes/spring.svg" alt="spring framework" width="28">](https://spring.io/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="c++" width="28">](https://www.bloodshed.net/)  | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" alt="python" width="29">](https://www.python.org/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="28">](https://getbootstrap.com/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="jQuery" width="24">](https://jquery.com/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" alt="angular" width="28">](https://angular.io/guide/http/)
@@ -13,5 +43,5 @@
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=cristian-garzon&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
 
 
-### most languages used
+### most languages used 📊
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristian-garzon&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
