@@ -3,7 +3,7 @@
 ### about me 😺
 
 ```javascript
-const anmol = {
+const cristian = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "Python", "Java"],
     askMeAbout: ["web dev", "app dev"],
