@@ -16,7 +16,7 @@ const cristian = {
             java: ["spring framework"],
             python: ["flask"]
         },
-        databases: ["mongo", "MySql", "postgresql"],
+        databases: ["mongo", "MySql", "postgresSql"],
         misc: ["Socket.IO", "open-cv"]
     },
     architecture: ["Progressive web applications"],
