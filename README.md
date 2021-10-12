@@ -9,7 +9,7 @@ const cristian = {
     askMeAbout: ["web dev", "app dev"],
     technologies: {
         frontEnd: {
-            typescript: [angular],
+            typescript: ["Angular"],
             css: ["bootstrap"]
         },
         backEnd: {
