@@ -5,7 +5,7 @@
 ```javascript
 const cristian = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "Java"],
+    code: ["Javascript", "Typescript", "Python", "Java", "kotlin", "go"],
     askMeAbout: ["web dev", "app dev"],
     technologies: {
         frontEnd: {
@@ -20,7 +20,7 @@ const cristian = {
         databases: ["mongo", "MySql", "postgresSql"],
         misc: ["Socket.IO", "open-cv"]
     },
-    architecture: ["Progressive web applications"],
+    architecture: ["Progressive web applications", "hexagonal architecture"],
     hobbies: ["boxing","calisthenics","programing", "reader"] 
 };
 ```
