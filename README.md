@@ -36,8 +36,8 @@ const cristian = {
  |---|---|---|---|---|---|---|
 
 ### Databases
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SqlServer" width="28"> | <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="28">	| <img src="https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png" alt="MySQL" width="28">	| <img src="https://www.logoshape.com/wp-content/uploads/2025/02/Mongodb_Icon_vector_logo.png" alt="MongoDB" width="28">	| <img src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="Redis" width="28">	| <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Cassandra_logo.svg" alt="Cassandra" width="28"> |	<img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" alt="DynamoDB" width="28">
-|---|---|---|---|---|---|---|
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SqlServer" width="28"> | <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="28">	| <img src="https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png" alt="MySQL" width="28">	| <img src="https://www.logoshape.com/wp-content/uploads/2025/02/Mongodb_Icon_vector_logo.png" alt="MongoDB" width="28">	| <img src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="Redis" width="28">	| <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Cassandra_logo.svg" alt="Cassandra" width="28">
+|---|---|---|---|---|---|
 
 ### most languages used 📊
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristian-garzon&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
